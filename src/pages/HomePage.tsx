@@ -4,7 +4,7 @@ import heroImg from "../assets/hero-help.jpg";
 const questions = [
   {
     id: 1,
-    user: "Emma",
+    user: "Clara",
     avatar: "https://randomuser.me/api/portraits/women/44.jpg",
     subject: "Mathématiques",
     question: "Comment résoudre une équation du second degré ?",
